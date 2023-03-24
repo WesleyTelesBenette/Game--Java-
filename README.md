@@ -1,5 +1,2 @@
 # GameJava
-Um jogo em Java que estou desenvolvendo para aprender mais sobre a linguagem.
-
-## Versão 0.1
-- Movimentação basica.
+Um teste de jogo em Java que eu comecei a desenvolvendo para aprender mais sobre a linguagem, mas descartei...
